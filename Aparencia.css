@@ -1,0 +1,207 @@
+.rowtítulo{
+  color: #4E3D34;  
+  background: #f5d9af;
+  border:  20px groove #d1af80;
+}
+
+.rowsubtítulo{
+color: #4E3D34
+}
+
+.rowraças{
+    color: #4e3d34; 
+    background: #f5d9af; 
+    border: 20px groove #d1af80; width:50;
+}
+
+body{background-color: #f5d9af;}
+
+.textoquartodemilha{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 38px;
+    font-size: 32px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemquartodemilha{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textomangalargamarchador{
+    position: absolute;
+    top: 160px;
+    left: 800px;
+    right: 50px;
+    line-height: 42px;
+    font-size: 39px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemmangalargamarchador{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textopainthorse{
+    position: absolute;
+    top: 157px;
+    left: 800px;
+    right: 50px;
+    line-height: 39px;
+    font-size: 34px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagempainthorse{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textocrioulo{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 35px;
+    font-size: 30px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemcrioulo{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textoárabe{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 48px;
+    font-size: 42px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemárabe{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textopurosangueinglês{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 43px;
+    font-size: 38px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagempurosangueinglês{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textogypsy{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 35px;
+    font-size: 30px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemgypsy{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textobretão{
+    position: absolute;
+    top: 158px;
+    left: 800px;
+    right: 50px;
+    line-height: 35px;
+    font-size: 33px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagembretão{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textocavalodaflorestanegra{
+    position: absolute;
+    top: 139px;
+    left: 800px;
+    right: 50px;
+    line-height: 27px;
+    font-size: 22px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemcavalodaflorestanegra{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
+
+.textofriesian{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    right: 50px;
+    line-height: 45px;
+    font-size: 40px;
+    font-family: "aoboto";
+    color:#4e3d34;
+}
+
+.imagemfriesian{
+    position:absolute;
+    height: 870px;
+    width: 735px;
+    top: 165px;
+    left: 30px;
+}
